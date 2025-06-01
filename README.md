@@ -55,5 +55,7 @@ On each push to the repository, the AWS pipeline will:
    - Source: GitHub  
    - Build: Link to the CodeBuild project  
    - (Skip deploy stage if you're only setting up CI)
+5. **Full CI/CD**
+   - To complete ci/cd checkout this article on medium
 
  

@@ -1,4 +1,4 @@
-# 🛠️ Python Flask App with CI on AWS (CodePipeline + CodeBuild)
+# Python Flask App with CI on AWS (CodePipeline + CodeBuild)
 
 This repository contains a simple Python Flask application that demonstrates how to implement **Continuous Integration (CI)** using **GitHub**, **AWS CodeBuild**, and **AWS CodePipeline**.
 
@@ -33,7 +33,7 @@ On each push to the repository, the AWS pipeline will:
 
 ---
 
-## 🔧 AWS Configuration Steps (Summary)
+## AWS Configuration Steps (Summary)
 
 > Full guide: [Medium Tutorial Link](https://milgoperis.medium.com/how-to-build-a-ci-pipeline-on-aws-with-codepipeline-codebuild-using-github-docker-e38acfd0e15e) 
 
@@ -56,6 +56,6 @@ On each push to the repository, the AWS pipeline will:
    - Build: Link to the CodeBuild project  
    - (Skip deploy stage if you're only setting up CI)
 5. **Full CI/CD**
-   - To complete ci/cd checkout this article on medium
+   - To complete ci/cd checkout [this article](https://milgoperis.medium.com/how-to-build-a-ci-pipeline-on-aws-with-codepipeline-codebuild-using-github-docker-e38acfd0e15e) on medium
 
  

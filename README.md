@@ -56,6 +56,6 @@ On each push to the repository, the AWS pipeline will:
    - Build: Link to the CodeBuild project  
    - (Skip deploy stage if you're only setting up CI)
 5. **Full CI/CD**
-   - To complete ci/cd checkout [this article](https://milgoperis.medium.com/how-to-build-a-ci-pipeline-on-aws-with-codepipeline-codebuild-using-github-docker-e38acfd0e15e) on medium
+   - To complete ci/cd checkout [this aws full ci/cd tutorial](https://medium.com/@milgoperis/automating-deployments-on-aws-full-ci-cd-pipeline-tutorial-part-2-cd-cef7e5b887b5) on medium
 
  
